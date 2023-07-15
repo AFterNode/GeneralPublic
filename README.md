@@ -1,18 +1,11 @@
+**[Issue Traker](https://github.com/AFterNode/GeneralPublic/issues)** |
+**[Releases](https://github.com/AFterNode/GeneralPublic/releases)** |
+**[Modrinth](https://modrinth.com/plugin/general)** |
+**[Gitbook](https://afternode.gitbook.io/general)**
+
 **BETA** Server side multi-module management component
 
 **THIS IS AN EARLY BETA VERSION**
-
-## Dependencies
-
-**[packetevents](https://github.com/retrooper/packetevents)** version 2.0.0+, required by AntiCheat module
-
-## Incompatible
-
-**Note: You can disable modules/features to resolve incompatibilities**
-
-**GrimAC** All versions, incompatible with AntiCheat module: Detections incompatible
-
-**TAB** All versoins, incompatible with BossBar feature of Customization module: Functional duplication
 
 ## Modules
 
