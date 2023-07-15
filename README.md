@@ -4,7 +4,7 @@
 
 ## Dependencies
 
-**[packetevents](https://github.com/retrooper/packetevents)** version 2.0.0+
+**[packetevents](https://github.com/retrooper/packetevents)** version 2.0.0+, required by AntiCheat module
 
 ## Incompatible
 
