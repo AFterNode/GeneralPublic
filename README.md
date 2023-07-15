@@ -8,9 +8,11 @@
 
 ## Incompatible
 
-**Note: You can disable module to resolve incompatibilities**
+**Note: You can disable modules/features to resolve incompatibilities**
 
 **GrimAC** All versions, incompatible with AntiCheat module: Detections incompatible
+
+**TAB** All versoins, incompatible with BossBar feature of Customization module: Functional duplication
 
 ## Modules
 
