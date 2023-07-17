@@ -9,6 +9,12 @@
 
 ## Modules
 
-- AntiCheat
-- Customization
-- Management
+- **AntiCheat** Providing a simple AntiCheat system to detect common cheats
+- **Customization** Providing custom features (menus, MOTD, bossbars)
+- **Management** Recording information (uuid, join time, last quit time etc.) of player, and allows operator create custom commands
+
+## How to use
+
+Drop it into plugins dir, and modify config.yml to configure modules enable/disable
+
+About dependencies and compability, see [Plugin Relationship](https://afternode.gitbook.io/general/plugin-relationship)
