@@ -12,6 +12,7 @@
 - **AntiCheat** Providing a simple AntiCheat system to detect common cheats
 - **Customization** Providing custom features (menus, MOTD, bossbars)
 - **Management** Recording information (uuid, join time, last quit time etc.) of player, and allows operator create custom commands
+- **Patches** Providing fixes of bugs from [Minecraft: Java Edition Bug Tracker](https://bugs.mojang.com/projects/MC/summary)
 
 ## How to use
 
