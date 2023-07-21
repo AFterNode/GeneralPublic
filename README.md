@@ -1,7 +1,8 @@
 **[Issue Traker](https://github.com/AFterNode/GeneralPublic/issues)** |
 **[Releases](https://github.com/AFterNode/GeneralPublic/releases)** |
 **[Modrinth](https://modrinth.com/plugin/general)** |
-**[Gitbook](https://afternode.gitbook.io/general)**
+**[Gitbook](https://afternode.gitbook.io/general)** |
+**[Spigot](https://www.spigotmc.org/resources/general.111381/)**
 
 **BETA** Server side multi-module management component
 
