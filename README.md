@@ -20,3 +20,7 @@
 Drop it into plugins dir, and modify config.yml to configure modules enable/disable
 
 About dependencies and compability, see [Plugin Relationship](https://afternode.gitbook.io/general/plugin-relationship)
+
+## Localization
+
+We use [Crowdin](https://crowdin.com/project/mc-general) to do it
