@@ -1,7 +1,8 @@
+<a href="https://modrinth.com/plugin/general"><img height="32" width="32" src="https://cdn.simpleicons.org/modrinth" /></a>
+<a href="https://afternode.gitbook.io/general"><img height="32" width="32" src="https://cdn.simpleicons.org/gitbook" /></a>
+
 **[Issue Traker](https://github.com/AFterNode/GeneralPublic/issues)** |
 **[Releases](https://github.com/AFterNode/GeneralPublic/releases)** |
-**[Modrinth](https://modrinth.com/plugin/general)** |
-**[Gitbook](https://afternode.gitbook.io/general)** |
 **[Spigot](https://www.spigotmc.org/resources/general.111381/)**
 
 **BETA** Server side multi-module management component
