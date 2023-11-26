@@ -7,6 +7,8 @@
 
 **BETA** Server side multi-module management component
 
+**Working on full remake version**
+
 **THIS IS AN EARLY BETA VERSION**
 
 ## Modules
